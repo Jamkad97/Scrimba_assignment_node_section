@@ -1,0 +1,19 @@
+{
+  "name": "wild-horizons",
+  "version": "1.0.0",
+  "description": "a dataset of the planet's most interesting places",
+  "main": "server.js",
+  "scripts": {
+    "test": "default",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "default"
+  },
+  "keywords": [
+    "default"
+  ],
+  "author": "Jamson Kadlec",
+  "license": "ISC"
+}
